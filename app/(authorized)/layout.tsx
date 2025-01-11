@@ -1,4 +1,4 @@
-export default function LandingLayout({
+export default function AuthorizedLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
